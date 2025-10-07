@@ -23,13 +23,6 @@ It allows users to add, edit, delete, and mark tasks as completed — with data 
 - **CSS3** – Styling with gradient and responsive layout  
 - **JavaScript (ES6)** – Functionality and LocalStorage CRUD operations  
 
----
-
-## 🚀 Live Demo
-
-[View Live App](https://akshu-3003.github.io/my-todo-list/)
-[View on GitHub](https://github.com/akshu-3003/my-todo-list)
-
 
 ---
 
